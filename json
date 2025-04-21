@@ -1,0 +1,10 @@
+[
+  {
+    "address": "0:123...abc",
+    "name": "Valid Token",
+    "symbol": "VAL",
+    "decimals": "9",
+    "image": "https://example.com/token-image.webp",
+    "description": "Verified token example"
+  }
+]
